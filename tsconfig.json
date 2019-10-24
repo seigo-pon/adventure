@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "module": "commonjs",
+        "baseUrl": "./src/",
+        "outDir": "./dist",
+        "declarationDir": "./typings",
+        "inlineSourceMap": true,
+        "declaration": true,
+        "downlevelIteration": true,
+        "noEmitHelpers": true,
+        "preserveConstEnums": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strict": true,
+        "removeComments": true,
+        "types": ["node"]
+    },
+    "exclude": [
+        "node_modules",
+        "dist",
+        "typings"
+    ]
+}
