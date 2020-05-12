@@ -93,3 +93,4 @@ typings/
 
 # local file
 dist/
+.game/
