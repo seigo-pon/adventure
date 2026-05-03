@@ -22,7 +22,7 @@
     "moment": "^2.24.0",
     "nedb": "^1.8.0",
     "typescript": "^3.5.3",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   },
   "dependencies": {
     "enquirer": "^2.3.1"
